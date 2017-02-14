@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Li Zihan
 Chen Penghao
+=======
+Wang Zexin
+>>>>>>> [T5A4] Add Wang Zexin as first line of W10-A4.txt
